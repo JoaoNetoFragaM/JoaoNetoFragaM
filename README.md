@@ -1,9 +1,11 @@
-### Olá! eu Sou O João Neto Fraga 
- • Atualmente Estudante!
- • Estou estudando JavaScript,Html,Css,Python
+<h1>João Neto Fraga. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+ <p> • Atualmente Estudante!</p>
+<p> • Estou estudando JavaScript,Html,Css,React </p>
  
- ##
+ ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
  
+
+ ## 📈 Estatísticas
 <div align="center">
   <a href="https://github.com/JoaoNetoFragaM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaonetofragam&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
